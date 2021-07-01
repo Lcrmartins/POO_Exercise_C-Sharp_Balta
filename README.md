@@ -1,2 +1,1 @@
-Meu repositório Git ==================== 
-Apenas repositório Git
+Start of the POO Exercise, using C#.
