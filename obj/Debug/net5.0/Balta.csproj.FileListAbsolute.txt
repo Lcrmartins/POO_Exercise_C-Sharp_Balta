@@ -1,0 +1,16 @@
+D:\projects\balta\Balta\bin\Debug\net5.0\Balta.exe
+D:\projects\balta\Balta\bin\Debug\net5.0\Balta.deps.json
+D:\projects\balta\Balta\bin\Debug\net5.0\Balta.runtimeconfig.json
+D:\projects\balta\Balta\bin\Debug\net5.0\Balta.runtimeconfig.dev.json
+D:\projects\balta\Balta\bin\Debug\net5.0\Balta.dll
+D:\projects\balta\Balta\bin\Debug\net5.0\ref\Balta.dll
+D:\projects\balta\Balta\bin\Debug\net5.0\Balta.pdb
+D:\projects\balta\Balta\obj\Debug\net5.0\Balta.csproj.AssemblyReference.cache
+D:\projects\balta\Balta\obj\Debug\net5.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\balta\Balta\obj\Debug\net5.0\Balta.AssemblyInfoInputs.cache
+D:\projects\balta\Balta\obj\Debug\net5.0\Balta.AssemblyInfo.cs
+D:\projects\balta\Balta\obj\Debug\net5.0\Balta.csproj.CoreCompileInputs.cache
+D:\projects\balta\Balta\obj\Debug\net5.0\Balta.dll
+D:\projects\balta\Balta\obj\Debug\net5.0\ref\Balta.dll
+D:\projects\balta\Balta\obj\Debug\net5.0\Balta.pdb
+D:\projects\balta\Balta\obj\Debug\net5.0\Balta.genruntimeconfig.cache
