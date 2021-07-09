@@ -1,9 +1,10 @@
 using System.Collections.Generic;
 using Balta.ContentContext.Enums;
+using Balta.SharedContext;
 
 namespace Balta.ContentContext
 {
-    public class Module
+    public class Module : Base
     {
         public Module()
         {
@@ -12,6 +13,6 @@ namespace Balta.ContentContext
         public int Order { get; set; }
         public string Title { get; set; }
         public IList<Lecture> Lectures { get; set; }
-        public int DurationInMinutes { get; set; }        
+        public int DurationInMinutes { get; set; }
     }
 }

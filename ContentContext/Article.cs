@@ -1,3 +1,4 @@
+using Balta.SharedContext;
 namespace Balta.ContentContext
 {
     public class Article : Content
